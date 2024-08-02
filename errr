@@ -1,0 +1,2 @@
+An exception occurred during task execution. To see the full traceback, use -vvv. The error was: botocore.exceptions.NoCredentialsError: Unable to locate credentials
+fatal: [localhost]: FAILED! => {"boto3_version": "1.34.152", "botocore_version": "1.34.152", "changed": false, "msg": "Could not describe default VPC: Unable to locate credentials"}
